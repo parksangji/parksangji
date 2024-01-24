@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=4d337b&height=300&section=header&text=HAPPY%20QUOKKA&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=4d337b&height=300&section=header&text=HI%20SANGJI&fontSize=90)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
