@@ -35,14 +35,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="http://comdolidol-i.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white&link=http://comdolidol-i.tistory.com/"/></a>&nbsp
-<!--   <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/saaaaangji/"/></a>&nbsp -->
   <a href="mailto:parksangji1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parksangji1109@gmail.com"/></a>
-
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=comdolidol-i&postId=148&theme=santorini)](http://comdolidol-i.tistory.com/)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=comdolidol-i&postId=146&theme=santorini)](http://comdolidol-i.tistory.com/)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=comdolidol-i&postId=331&theme=santorini)](http://comdolidol-i.tistory.com/)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=comdolidol-i&postId=370&theme=santorini)](http://comdolidol-i.tistory.com/)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=comdolidol-i&postId=373&theme=santorini)](http://comdolidol-i.tistory.com/)
 </p>
 <h3 align="center">🧑‍💻 My Github Stats 🧑‍💻</h3>
 
