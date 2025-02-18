@@ -38,6 +38,4 @@
   <a href="mailto:parksangji1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parksangji1109@gmail.com"/></a>
 </p>
 <h3 align="center">🧑‍💻 My Github Stats 🧑‍💻</h3>
-
-![QUOKKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMHAPPYQUOKKA&show_icons=true&theme=buefy)
 </div>
