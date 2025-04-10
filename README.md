@@ -1,41 +1,39 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=venom&color=4d337b&height=300&section=header&text=HI%20SANGJI&fontSize=90)
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/apachetomcat-f8dc75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-dc382d?style=for-the-badge&logo=redis&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/JAVA-1E8CBE?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/gitlab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white">
+![header](https://capsule-render.vercel.app/api?type=venom&color=e6ebdb&height=300&section=header&text=HI%20SANGJI&fontSize=90)
+
+<br />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Batch"/>
+  <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring JPA"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white" alt="MyBatis"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="http://comdolidol-i.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white&link=http://comdolidol-i.tistory.com/"/></a>&nbsp
-  <a href="mailto:parksangji1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parksangji1109@gmail.com"/></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" alt="Logstash"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" alt="AWS EC2"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" alt="Tomcat"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-<h3 align="center">🧑‍💻 My Github Stats 🧑‍💻</h3>
-</div>
+<br/>
+
+| <a href="https://github.com/parksangji"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parksangji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GitHub Stats"/></a> | <a href="https://github.com/parksangji"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parksangji&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+<br />
+<br />
+
+<p align="right">
+  <a href="mailto:parksangji1109@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp; <a href="https://comdolidol-i.tistory.com/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Blog-0A66C2?style=flat-square&logo=blog&logoColor=white"/>
+  </a>
+</p>
