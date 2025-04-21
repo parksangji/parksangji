@@ -24,16 +24,14 @@
 </p>
 <br/>
 
-| <a href="https://github.com/parksangji"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parksangji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GitHub Stats"/></a> | <a href="https://github.com/parksangji"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parksangji&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<br />
-<br />
-
 <p align="right">
   <a href="mailto:parksangji1109@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp; <a href="https://comdolidol-i.tistory.com/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Blog-0A66C2?style=flat-square&logo=blog&logoColor=white"/>
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-0A66C2?style=flat-square&logo=blog&logoColor=white"/>
+  </a>
+  &nbsp; <a href="https://github.com/parksangji" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
